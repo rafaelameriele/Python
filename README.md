@@ -1,3 +1,3 @@
 # Python
-Aulas de Estágio IV \n
+Aulas de Estágio IV - 
 Noções de Python e atividades
